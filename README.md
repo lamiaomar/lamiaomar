@@ -1,4 +1,5 @@
-- 👋 Hi, I’m lamia omar Bin jahlam
+###Kotlin 
+-  Hi, I’m lamia omar Bin jahlam
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
