@@ -3,7 +3,7 @@
 - I’m interested in programming 
 - I’m currently learning Kotlin
 - How to reach me : 
-- * Phone numper : 0566760726
+- * Phone number : 0566760726
 - * Email : lamiaomar.1999@gmail.com
 - 
 
