@@ -2,7 +2,9 @@
 -  *Hi, I’m **lamia** omar Bin jahlam*
 - I’m interested in programming 
 - I’m currently learning Kotlin
-- 
+- How to reach me : 
+- * Phone numper : 055
+- * Email : lamiaomar.1999@gmail.com
 - 
 
 <!---
