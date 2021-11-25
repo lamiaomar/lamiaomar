@@ -3,8 +3,8 @@
 - I’m interested in programming 
 - I’m currently learning Kotlin
 - How to reach me : 
-- * Phone number : 0566760726
 - * Email : lamiaomar.1999@gmail.com
+- * LinkedIn :linkedin.com/lamiaomar
 - 
 
 <!---
